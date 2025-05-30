@@ -19,16 +19,12 @@ Estoy activo en varias plataformas:
 
 <table>
   <tr>
-    <td><strong>🐦 Twitter:</strong> <a href="https://twitter.com/tu_usuario">tu_usuario</a></td>
-    <td><strong>🐙 GitHub:</strong> <a href="https://github.com/tu_usuario">tu_usuario</a></td>
-  </tr>
-  <tr>
-    <td><strong>🎥 YouTube:</strong> <a href="https://youtube.com/tu_canal">tu_canal</a></td>
-    <td><strong>📫 Gmail:</strong> <a href="mailto:tu.email@gmail.com">tu.email@gmail.com</a></td>
-  </tr>
-  <tr>
     <td><strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/tu_perfil">tu_perfil</a></td>
-    <td><strong>☎️ Teléfono:</strong> +52 123 456 7890</td>
+    <td><strong>🐦 Twitter:</strong> <a href="https://twitter.com/tu_usuario">tu_usuario</a></td>
+  </tr>
+  <tr>
+    <td><strong>📫 Gmail:</strong> <a href="mailto:tu.email@gmail.com">tu.email@gmail.com</a></td>
+    <td><strong>🎥 YouTube:</strong> <a href="https://youtube.com/tu_canal">tu_canal</a></td>
   </tr>
 </table>
 
