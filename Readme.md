@@ -1,10 +1,6 @@
-<img src="Background.png">
-
-<h1>Hola, soy <a href="https://www.linkedin.com/in/montoyapl" target="_blank" rel="noopener noreferrer">Luis Montoya</a>! 👋🏻</h1>
-
-<p>
-  🥽 <strong>Desarrollador XR</strong> | 🧑🏻‍💻 <strong>Especialista en Unity</strong> | 🐛 <strong>Programador C#</strong>
-</p>
+![Banner](Background.png)
+# ¡Hola! Bienvenido/a a mi perfil de GitHub 👋🏻
+**🥽 Desarrollador XR | 🧑🏻‍💻 Especialista en Unity | 🐛 Programador C#**
 
 **Mi nombre es _Luis Manuel Montoya Pilón_**, aunque muchos me conocen simplemente como **Montoya**.  
 Soy originario de **México** y cuento con más de **3 años de experiencia** como desarrollador en `Unity` y `.NET C#`.
