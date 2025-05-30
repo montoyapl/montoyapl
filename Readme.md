@@ -23,4 +23,4 @@ LinkedIn
 GitHub
 
 > [!NOTE]
-> ***🎉 Muchos de mis proyectos son gratuitos y de código abierto; puedes ver los más destacados más abajo. 👇🏻***
+> ***🎉 Muchos de mis proyectos son gratuitos y de código abierto; puedes ver los más destacados abajo. 👇🏻***
