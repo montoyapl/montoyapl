@@ -24,7 +24,7 @@ Estoy activo en varias plataformas:
   </tr>
   <tr>
     <td><strong>📫 Gmail:</strong> <a href="mailto:tu.email@gmail.com">tu.email@gmail.com</a></td>
-    <td><strong>🎥 </strong> <a href="www.youtube.com/@montoya_pl">YouTube</a></td>
+    <td><strong>🎥 </strong> <a href="[www.youtube.com/@montoya_pl](https://youtube.com/@montoya_pl?si=TEgiAHcjoXGYxF9r)">YouTube</a></td>
   </tr>
 </table>
 
